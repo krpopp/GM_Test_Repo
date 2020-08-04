@@ -263,6 +263,14 @@
             }
         },
         {
+            "Key": "db112986-b566-41ce-a003-6c700cb505c5",
+            "Value": {
+                "id": "c54141f9-7be2-43f7-a9aa-5d9b13445f99",
+                "resourcePath": "sprites\/spr_dealer\/spr_dealer.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
             "Value": {
                 "id": "6c8de632-32ad-4c32-bead-71f9d2b2c979",
